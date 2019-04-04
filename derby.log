@@ -1,6 +1,6 @@
 ----------------------------------------------------------------
-Wed Mar 27 18:26:45 CDT 2019:
-Booting Derby version The Apache Software Foundation - Apache Derby - 10.13.1.1 - (Unversioned directory): instance a816c00e-0169-c17a-2fbe-000005559ed8 
+Wed Mar 27 18:47:01 CDT 2019:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.13.1.1 - (Unversioned directory): instance a816c00e-0169-c18c-c129-0000055b6608 
 on database directory C:\Users\Paul\IdeaProjects\JavaDBTest\CatalogDB with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@28c97a5 
 Loaded from file:/C:/Program%20Files/glassfish5/javadb/lib/derby.jar
 java.vendor=Oracle Corporation
